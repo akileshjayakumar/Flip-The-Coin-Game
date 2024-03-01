@@ -1,8 +1,8 @@
-# Flip The Coin
+# Flip The Coin Game
 
 ## Introduction
 
-Welcome to my coin flipping game This interactive game demonstrates my capabilities in Web development. Utilizing HTML, CSS, and JavaScript, this project highlights my coding skills and understanding of fundamental web technologies.
+Welcome to my coin flipping game. This interactive game demonstrates my capabilities in Web development. Utilizing HTML, CSS, and JavaScript, this project highlights my coding skills and understanding of fundamental web technologies.
 
 ## Features
 
