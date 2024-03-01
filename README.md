@@ -1,4 +1,4 @@
-# Toss The Coin
+# Flip The Coin
 
 ## Introduction
 
@@ -21,8 +21,8 @@ Welcome to my coin flipping game This interactive game demonstrates my capabilit
 
 To run the game locally:
 
-1. Clone the repository: `git clone https://github.com/yourGithubUsername/toss-the-coin.git`
-2. Navigate to the project directory: `cd toss-the-coin`
+1. Clone the repository: `git clone https://github.com/akileshjayakumar/flip-the-coin`
+2. Navigate to the project directory: `cd flip-the-coin`
 3. Open `index.html` in your web browser.
 
 ## Contributing
