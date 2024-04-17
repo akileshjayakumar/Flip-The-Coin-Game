@@ -1,37 +1,47 @@
-# Flip The Coin Game
+# [Flip The Coin Game](https://akileshjayakumar.github.io/flip-the-coin/)
 
-## Introduction
+## Key Features
 
-Welcome to my coin flipping game. This interactive game demonstrates my capabilities in Web development. Utilizing HTML, CSS, and JavaScript, this project highlights my coding skills and understanding of fundamental web technologies.
+- **Responsive Design**: Fully optimized for both mobile and desktop browsers.
+- **Interactive UI**: Simple, engaging interface for flipping the coin and viewing results.
+- **Statistics Tracking**: Tracks and displays real-time results of heads and tails outcomes.
+- **Ease of Deployment**: Can be easily hosted on any static file server without additional configurations.
 
-## Features
+## Tools Used
 
-- **Responsive Design:** The game is optimized for both mobile and desktop browsers.
-- **Interactive UI:** Simple and engaging user interface for flipping the coin and viewing results.
-- **Statistics Tracking:** Real-time tracking of heads and tails outcomes.
-- **Ease of Deployment:** The game can be easily hosted on any static file server with no additional configurations.
+- **Frontend**: HTML, CSS, JavaScript
+- **Version Control**: Git
+- **Deployment**: Hosted on GitHub Pages
 
-## Technologies Used
+## Getting Started
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Version Control:** Git
-- **Deployment:** Hosted on GitHub Pages
+Follow these steps to set up the game on your local machine:
 
-## Project Setup
-
-To run the game locally:
-
-1. Clone the repository: `git clone https://github.com/akileshjayakumar/flip-the-coin`
-2. Navigate to the project directory: `cd flip-the-coin`
-3. Open `index.html` in your web browser.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/akileshjayakumar/flip-the-coin
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd flip-the-coin
+   ```
+3. **Launch the game:**
+   Open `index.html` in your browser to start playing.
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for improvement or would like to add features, feel free to fork the repository, make your changes, and create a pull request.
+Contributions are highly encouraged! If you're interested in enhancing the game or adding new features, here’s how you can contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Submit a pull request.
 
 ## Contact Information
 
-- **Name**: Akilesh Jayakumar
-- **Email**: jayakuma006@mymail.sim.edu.sg
+For any inquiries or suggestions, feel free to contact me:
+
+- **Email**: [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
 - **LinkedIn**: [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
 - **GitHub**: [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
