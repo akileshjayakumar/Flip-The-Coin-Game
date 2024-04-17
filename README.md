@@ -40,8 +40,6 @@ Contributions are highly encouraged! If you're interested in enhancing the game 
 
 ## Contact Information
 
-For any inquiries or suggestions, feel free to contact me:
-
 - **Email**: [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
 - **LinkedIn**: [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
 - **GitHub**: [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
