@@ -1,5 +1,7 @@
 # [Flip The Coin Game](https://akileshjayakumar.github.io/flip-the-coin/)
 
+Here is the link to the live site: [https://akileshjayakumar.github.io/flip-the-coin/](https://akileshjayakumar.github.io/flip-the-coin/)
+
 ## Key Features
 
 - **Responsive Design**: Fully optimized for both mobile and desktop browsers.
@@ -30,11 +32,11 @@ Follow these steps to set up the game on your local machine:
 
 ## Contributing
 
-Contributions are highly encouraged! If you're interested in enhancing the game or adding new features, here’s how you can contribute:
+Your contributions are welcome! If you have ideas for improvements or new features:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -am 'Add some feature'`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Submit a pull request.
 
