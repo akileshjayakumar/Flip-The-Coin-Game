@@ -6,7 +6,6 @@ Here is the link to the live site: [https://akileshjayakumar.github.io/flip-the-
 
 - **Responsive Design**: Fully optimized for both mobile and desktop browsers.
 - **Interactive UI**: Simple, engaging interface for flipping the coin and viewing results.
-- **Statistics Tracking**: Tracks and displays real-time results of heads and tails outcomes.
 
 ## Tools Used
 
@@ -30,6 +29,9 @@ Follow these steps to set up the game on your local machine:
    Open `index.html` in your browser to start playing.
 
 ## Contributing
+
+Your contributions are welcome! If you have ideas for improvements or new features:
+
 1. **Fork the Repository**
 2. **Create a Branch:**
    ```bash
@@ -46,6 +48,7 @@ Follow these steps to set up the game on your local machine:
 5. **Submit a Pull Request**
 
 ## Contact
+
 - **Email:** [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
 - **LinkedIn:** [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
 - **GitHub:** [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
