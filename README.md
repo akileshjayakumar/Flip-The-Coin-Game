@@ -2,16 +2,18 @@
 
 Here is the link to the live site: [https://akileshjayakumar.github.io/flip-the-coin](https://akileshjayakumar.github.io/flip-the-coin/)
 
-## Key Features
+## Tech Stack
 
-- **Responsive Design**: Fully optimized for both mobile and desktop browsers.
-- **Interactive UI**: Simple, engaging interface for flipping the coin and viewing results.
+- **Frontend:**
+  - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**
+  - **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
+  - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+  
+- **Version Control:**
+  - **[Git](https://git-scm.com/doc)**
 
-## Tools Used
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Version Control**: Git
-- **Deployment**: Hosted on GitHub Pages
+- **Deployment:**
+  - **[GitHub Pages](https://docs.github.com/en/pages)**
 
 ## Getting Started
 
@@ -27,28 +29,3 @@ Follow these steps to set up the game on your local machine:
    ```
 3. **Launch the game:**
    Open `index.html` in your browser to start playing.
-
-## Contributing
-
-Your contributions are welcome! If you have ideas for improvements or new features:
-
-1. **Fork the Repository**
-2. **Create a Branch:**
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. **Commit Changes:**
-   ```bash
-   git commit -am 'Add new feature: description'
-   ```
-4. **Push to Branch:**
-   ```bash
-   git push origin feature-branch
-   ```
-5. **Submit a Pull Request**
-
-## Contact
-
-- **Email:** [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
-- **LinkedIn:** [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
-- **GitHub:** [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
